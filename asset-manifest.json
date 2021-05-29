@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/corona/static/css/main.b890e4d8.chunk.css",
+    "main.js": "/corona/static/js/main.3f319c52.chunk.js",
+    "main.js.map": "/corona/static/js/main.3f319c52.chunk.js.map",
+    "runtime-main.js": "/corona/static/js/runtime-main.0f2fefa9.js",
+    "runtime-main.js.map": "/corona/static/js/runtime-main.0f2fefa9.js.map",
+    "static/js/2.06003051.chunk.js": "/corona/static/js/2.06003051.chunk.js",
+    "static/js/2.06003051.chunk.js.map": "/corona/static/js/2.06003051.chunk.js.map",
+    "static/js/3.acd1a5bd.chunk.js": "/corona/static/js/3.acd1a5bd.chunk.js",
+    "static/js/3.acd1a5bd.chunk.js.map": "/corona/static/js/3.acd1a5bd.chunk.js.map",
+    "index.html": "/corona/index.html",
+    "static/css/main.b890e4d8.chunk.css.map": "/corona/static/css/main.b890e4d8.chunk.css.map",
+    "static/js/2.06003051.chunk.js.LICENSE.txt": "/corona/static/js/2.06003051.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/corona/static/media/coronamove.5d94d14e.svg",
+    "static/media/corona.c114b9ad.svg": "/corona/static/media/corona.c114b9ad.svg",
+    "static/media/coronaeffect.f36d5bb5.gif": "/corona/static/media/coronaeffect.f36d5bb5.gif",
+    "static/media/coronatest.f8b4d6ef.svg": "/corona/static/media/coronatest.f8b4d6ef.svg",
+    "static/media/doctors.094d24b1.svg": "/corona/static/media/doctors.094d24b1.svg",
+    "static/media/goodbye.ecd43ef1.gif": "/corona/static/media/goodbye.ecd43ef1.gif",
+    "static/media/info1.05f4f4bd.svg": "/corona/static/media/info1.05f4f4bd.svg",
+    "static/media/info2.938eebb2.svg": "/corona/static/media/info2.938eebb2.svg",
+    "static/media/info3.677d5322.svg": "/corona/static/media/info3.677d5322.svg",
+    "static/media/info4.2e2f90d4.svg": "/corona/static/media/info4.2e2f90d4.svg",
+    "static/media/info5.5d686b1d.svg": "/corona/static/media/info5.5d686b1d.svg",
+    "static/media/info6.bff97b5c.webp": "/corona/static/media/info6.bff97b5c.webp",
+    "static/media/onlinedoctor.55fd232d.gif": "/corona/static/media/onlinedoctor.55fd232d.gif",
+    "static/media/vaccine.26d2e553.gif": "/corona/static/media/vaccine.26d2e553.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f2fefa9.js",
+    "static/js/2.06003051.chunk.js",
+    "static/css/main.b890e4d8.chunk.css",
+    "static/js/main.3f319c52.chunk.js"
+  ]
+}
